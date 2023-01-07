@@ -1,13 +1,24 @@
 {
   "name": "tema10",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "",
+  "main": "controller.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olnbxxx/Tema10.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "bugs": {
+    "url": "https://github.com/olnbxxx/Tema10/issues"
+  },
+  "homepage": "https://github.com/olnbxxx/Tema10#readme",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
 }
